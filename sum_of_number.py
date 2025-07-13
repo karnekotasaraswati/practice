@@ -1,4 +1,5 @@
 a = 10
 b = 20
-c = a+b
+z = 30
+c = a + b + z
 print("Sum of two number", c);
